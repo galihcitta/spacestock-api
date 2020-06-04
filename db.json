@@ -1,0 +1,94 @@
+{
+    "apartment": [
+        {
+            "id": 1,
+            "name": "Park Royale Apartment",
+            "description": "Sewa Apartemen Harga Terjangkau & Fasilitas Lengkap.",
+            "facilities": ["kitchen", "hot water", "television", "internet"],
+            "type": "Apartmen",
+            "images": {
+                "primary": "https://res.cloudinary.com/dpqdlkgsz/image/private/t_aparecium_minima/building/cat-20190306084313.jpg",
+                "others": ["https://res.cloudinary.com/dpqdlkgsz/image/private/t_aparecium_minima/building/cat-20190306103357.jpg", "https://res.cloudinary.com/dpqdlkgsz/image/private/t_aparecium_minima/building/eyvpzl9s6cz6722padeo.jpg", "https://res.cloudinary.com/dpqdlkgsz/image/private/t_aparecium_minima/building/lhk9k1mxkc0ldsf4ztsa.jpg"]
+            },
+            "address": {
+                "street": "Jl. Gatot Subroto, RW.2, Bend. Hilir, Kecamatan Tanah Abang",
+                "city": "Jakarta",
+                "country": "Indonesia"
+            },
+            "latitude": -6.188001,
+            "longitude": 106.821821
+        },
+        {
+            "id": 2,
+            "name": "Airy Eco Syariah Benhil",
+            "description": "Dapatkan kamar hotel terbaik di Airy Eco Syariah Benhil Bendungan Asahan Tiga 12 Jakarta",
+            "facilities": ["kitchen", "hot water", "television", "internet"],
+            "type": "Hotel",
+            "images": {
+                "primary": "https://res.cloudinary.com/dpqdlkgsz/image/private/t_aparecium_minima/building/r6roh0tnmviecx6ibaeu.jpg",
+                "others": ["https://res.cloudinary.com/dpqdlkgsz/image/private/t_aparecium_minima/building/d03eb7mbowtrpx7lt0bf.jpg", "https://res.cloudinary.com/dpqdlkgsz/image/private/t_aparecium_minima/building/ku54xzwd4nt3b4jhxc8d.jpg", "https://res.cloudinary.com/dpqdlkgsz/image/private/t_aparecium_minima/building/jkvr4keakyatvrvoz7hx.jpg"]
+            },
+            "address": {
+                "street": "Jl.Taman Jl. Bend. Asahan No.12, RT.9/RW.3, Bendungan Hilir, Kecamatan Tanah Abang",
+                "city": "Jakarta",
+                "country": "Indonesia"
+            },
+            "latitude": -6.157622,
+            "longitude": 106.891218
+        },
+        {
+            "id": 3,
+            "name": "Bendungan Hilir Residence",
+            "description": "Tempat nyaman, kasur empuk, banyak minimart/ restoran di dekat hotel karena dekat pasar Benhil/ Bendungan Hilir",
+            "facilities": ["kitchen", "hot water", "television", "internet"],
+            "type": "Hotel",
+            "images": {
+                "primary": "https://res.cloudinary.com/dpqdlkgsz/image/private/t_aparecium_minima/building/cat-20190306112621.jpg",
+                "others": ["https://res.cloudinary.com/dpqdlkgsz/image/private/t_aparecium_minima/building/cat-20190306103310.jpg", "https://res.cloudinary.com/dpqdlkgsz/image/private/t_aparecium_minima/building/xnpgqlfafahxqigvzedr.jpg", "https://res.cloudinary.com/dpqdlkgsz/image/private/t_aparecium_minima/building/iizb93dyoaxixslzculh.jpg"]
+            },
+            "address": {
+                "street": "Jl. Bend. Jatiluhur No.77, RT.1/RW.2, Bend. Hilir, Kecamatan Tanah Abang",
+                "city": "Jakarta",
+                "country": "Indonesia"
+            },
+            "latitude": -6.209788,
+            "longitude": 106.806619
+        },
+        {
+            "id": 4,
+            "name": "1BR - Tower 16",
+            "description": "Sebuah hunian nyaman dengan tipe 1BR ini memiliki beragam faktor pendukung yang membuat hunian semakin nyaman.",
+            "facilities": ["kitchen", "hot water", "television", "internet"],
+            "type": "Apartemen",
+            "images": {
+                "primary": "https://res.cloudinary.com/dpqdlkgsz/image/private/t_aparecium_minima/building/k09qdjwchvwtgpips44f.jpg",
+                "others": ["https://res.cloudinary.com/dpqdlkgsz/image/private/t_aparecium_minima/building/dojauxrtoy0ldvz0rx00.jpg", "https://res.cloudinary.com/dpqdlkgsz/image/private/t_aparecium_minima/building/gvkod4ha4nvslwmxf46j.jpg", "https://res.cloudinary.com/dpqdlkgsz/image/private/t_aparecium_minima/building/ocz8xikptmanpcf7z7ny.jpg"]
+            },
+            "address": {
+                "street": "Jl. Bend. Jatiluhur No.77, RT.1/RW.2, Bend. Hilir, Kecamatan Tanah Abang",
+                "city": "Jakarta",
+                "country": "Indonesia"
+            },
+            "latitude": -6.225488,
+            "longitude": 106.816582
+        },
+        {
+            "id": 5,
+            "name": "Citra Lake Suite",
+            "description": "Dalam kompleks ini tersedia beragam fasilitas untuk mendukung hunian Anda, Terdapat pula beragam sarana dan fasilitas yang menjamin kenyamanan hunian Anda, seperti: Access Card, Atm Center, Bbq Pit.",
+            "facilities": ["kitchen", "hot water", "television", "internet"],
+            "type": "Apartemen",
+            "images": {
+                "primary": "https://res.cloudinary.com/dpqdlkgsz/image/private/t_aparecium_minima/building/txer8ad2avzkkjnwxcg1.jpg",
+                "others": ["https://res.cloudinary.com/dpqdlkgsz/image/private/t_aparecium_minima/building/m5l8zju9xbxm9rzmwzxw.jpg", "https://res.cloudinary.com/dpqdlkgsz/image/private/t_aparecium_minima/building/dt6hv9hipeev9kayolab.jpg", "https://res.cloudinary.com/dpqdlkgsz/image/private/t_aparecium_minima/building/ocz8xikptmanpcf7z7ny.jpg"]
+            },
+            "address": {
+                "street": "Jl. Taman Palem Lestari RT.4/RW.4",
+                "city": "Jakarta",
+                "country": "Indonesia"
+            },
+            "latitude": -6.265537,
+            "longitude": 106.798915
+        }
+    ]
+}
