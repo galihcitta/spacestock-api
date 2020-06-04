@@ -89,6 +89,132 @@
             },
             "latitude": -6.265537,
             "longitude": 106.798915
+        },
+        {
+            "id": 6,
+            "name": "Apartemen Kalibata",
+            "description": "Hunian yang nyaman dengan lokasi sangat strategis, cocok untuk anda yang sudah berkeluarga maupun lajang",
+            "facilities": ["Keamanan 24 Jam", "Tempat Parkir", "Tempat Bermain"],
+            "type": "Apartemen",
+            "images": {
+                "primary": "https://photosrp.dotproperty.id/2.0-ID-1012723-PP-3510384-3927208365c8a02c9626d6-1-490-325-ct/apartemen-dijual-dengan-2-kamar-tidur-di-jatinegara-jakarta.jpg",
+                "others": ["https://res.cloudinary.com/dpqdlkgsz/image/private/t_aparecium_minima/building/m5l8zju9xbxm9rzmwzxw.jpg", "https://res.cloudinary.com/dpqdlkgsz/image/private/t_aparecium_minima/building/dt6hv9hipeev9kayolab.jpg", "https://res.cloudinary.com/dpqdlkgsz/image/private/t_aparecium_minima/building/ocz8xikptmanpcf7z7ny.jpg"]
+            },
+            "address": {
+                "street": "Jl. Taman Palem Lestari RT.4/RW.4",
+                "city": "Bogor",
+                "country": "Indonesia"
+            },
+            "latitude": -6.202119,
+            "longitude": 106.841679
+        },
+        {
+            "id": 7,
+            "name": "Sky Lounge",
+            "description": "Hunian yang nyaman dengan lokasi sangat strategis, cocok untuk anda yang sudah berkeluarga maupun lajang",
+            "facilities": ["Keamanan 24 Jam", "Tempat Parkir", "Tempat Bermain"],
+            "type": "Hotel",
+            "images": {
+                "primary": "https://asset.kompas.com/crops/d-Rz3hvTDHs_NFN0agUYpApHM9w=/0x13:1009x518/750x500/data/photo/2019/05/16/96102498.jpg",
+                "others": ["https://res.cloudinary.com/dpqdlkgsz/image/private/t_aparecium_minima/building/m5l8zju9xbxm9rzmwzxw.jpg", "https://res.cloudinary.com/dpqdlkgsz/image/private/t_aparecium_minima/building/dt6hv9hipeev9kayolab.jpg", "https://res.cloudinary.com/dpqdlkgsz/image/private/t_aparecium_minima/building/ocz8xikptmanpcf7z7ny.jpg"]
+            },
+            "address": {
+                "street": "Jl. Taman Palem Lestari RT.4/RW.4",
+                "city": "Jakarta",
+                "country": "Indonesia"
+            },
+            "latitude": -6.2,
+            "longitude": 106.816666
+        },
+        {
+            "id": 8,
+            "name": "SpringWood Residence",
+            "description": "Hunian yang nyaman dengan lokasi sangat strategis, cocok untuk anda yang sudah berkeluarga maupun lajang",
+            "facilities": ["Keamanan 24 Jam", "Tempat Parkir", "Tempat Bermain"],
+            "type": "Hotel",
+            "images": {
+                "primary": "https://res.cloudinary.com/dpqdlkgsz/image/private/t_aparecium_minima/building/u5kqya8uezj9uvhtzsrx.jpg",
+                "others": ["https://res.cloudinary.com/dpqdlkgsz/image/private/t_aparecium_minima/building/m5l8zju9xbxm9rzmwzxw.jpg", "https://res.cloudinary.com/dpqdlkgsz/image/private/t_aparecium_minima/building/dt6hv9hipeev9kayolab.jpg", "https://res.cloudinary.com/dpqdlkgsz/image/private/t_aparecium_minima/building/ocz8xikptmanpcf7z7ny.jpg"]
+            },
+            "address": {
+                "street": "Jl. Taman Palem Lestari RT.4/RW.4",
+                "city": "Bandung",
+                "country": "Indonesia"
+            },
+            "latitude": -6.182881,
+            "longitude": 106.792995
+        },
+        {
+            "id": 9,
+            "name": "Cyber 2 Tower",
+            "description": "Hunian yang nyaman dengan lokasi sangat strategis, cocok untuk anda yang sudah berkeluarga maupun lajang",
+            "facilities": ["Keamanan 24 Jam", "Tempat Parkir", "Tempat Bermain"],
+            "type": "Apartemen",
+            "images": {
+                "primary": "https://res.cloudinary.com/dpqdlkgsz/image/private/t_anteoculatia/office/vmrubqqqm2cokbzxpwsq",
+                "others": ["https://res.cloudinary.com/dpqdlkgsz/image/private/t_aparecium_minima/building/m5l8zju9xbxm9rzmwzxw.jpg", "https://res.cloudinary.com/dpqdlkgsz/image/private/t_aparecium_minima/building/dt6hv9hipeev9kayolab.jpg", "https://res.cloudinary.com/dpqdlkgsz/image/private/t_aparecium_minima/building/ocz8xikptmanpcf7z7ny.jpg"]
+            },
+            "address": {
+                "street": "Jl. Taman Palem Lestari RT.4/RW.4",
+                "city": "Jakarta",
+                "country": "Indonesia"
+            },
+            "latitude": -6.255732,
+            "longitude": 106.775532
+        },
+        {
+            "id": 10,
+            "name": "Bakrie Tower",
+            "description": "Hunian yang nyaman dengan lokasi sangat strategis, cocok untuk anda yang sudah berkeluarga maupun lajang",
+            "facilities": ["Keamanan 24 Jam", "Tempat Parkir", "Tempat Bermain"],
+            "type": "Apartemen",
+            "images": {
+                "primary": "https://res.cloudinary.com/dpqdlkgsz/image/private/t_anteoculatia/building/eitjc7ehovrqv5uwnbua",
+                "others": ["https://res.cloudinary.com/dpqdlkgsz/image/private/t_aparecium_minima/building/m5l8zju9xbxm9rzmwzxw.jpg", "https://res.cloudinary.com/dpqdlkgsz/image/private/t_aparecium_minima/building/dt6hv9hipeev9kayolab.jpg", "https://res.cloudinary.com/dpqdlkgsz/image/private/t_aparecium_minima/building/ocz8xikptmanpcf7z7ny.jpg"]
+            },
+            "address": {
+                "street": "Jl. Taman Palem Lestari RT.4/RW.4",
+                "city": "Jakarta",
+                "country": "Indonesia"
+            },
+            "latitude": -6.272785,
+            "longitude": 106.765369
+        },
+        {
+            "id": 11,
+            "name": "Gran Rubina Tower 1",
+            "description": "Hunian yang nyaman dengan lokasi sangat strategis, cocok untuk anda yang sudah berkeluarga maupun lajang",
+            "facilities": ["Keamanan 24 Jam", "Tempat Parkir", "Tempat Bermain"],
+            "type": "Apartemen",
+            "images": {
+                "primary": "https://res.cloudinary.com/dpqdlkgsz/image/private/t_anteoculatia/building/dndxzcmjywor3szmlday",
+                "others": ["https://res.cloudinary.com/dpqdlkgsz/image/private/t_aparecium_minima/building/m5l8zju9xbxm9rzmwzxw.jpg", "https://res.cloudinary.com/dpqdlkgsz/image/private/t_aparecium_minima/building/dt6hv9hipeev9kayolab.jpg", "https://res.cloudinary.com/dpqdlkgsz/image/private/t_aparecium_minima/building/ocz8xikptmanpcf7z7ny.jpg"]
+            },
+            "address": {
+                "street": "Jl. Taman Palem Lestari RT.4/RW.4",
+                "city": "Jakarta",
+                "country": "Indonesia"
+            },
+            "latitude": -6.234259,
+            "longitude": 106.821574
+        },
+        {
+            "id": 12,
+            "name": "Mega Plaza",
+            "description": "Hunian yang nyaman dengan lokasi sangat strategis, cocok untuk anda yang sudah berkeluarga maupun lajang",
+            "facilities": ["Keamanan 24 Jam", "Tempat Parkir", "Tempat Bermain"],
+            "type": "Apartemen",
+            "images": {
+                "primary": "https://res.cloudinary.com/dpqdlkgsz/image/private/t_anteoculatia/building/usfbktod3qizvr6awykv",
+                "others": ["https://res.cloudinary.com/dpqdlkgsz/image/private/t_aparecium_minima/building/m5l8zju9xbxm9rzmwzxw.jpg", "https://res.cloudinary.com/dpqdlkgsz/image/private/t_aparecium_minima/building/dt6hv9hipeev9kayolab.jpg", "https://res.cloudinary.com/dpqdlkgsz/image/private/t_aparecium_minima/building/ocz8xikptmanpcf7z7ny.jpg"]
+            },
+            "address": {
+                "street": "Jl. Taman Palem Lestari RT.4/RW.4",
+                "city": "Jakarta",
+                "country": "Indonesia"
+            },
+            "latitude": -6.298144,
+            "longitude": 106.779244
         }
     ]
 }
