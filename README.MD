@@ -1,7 +1,7 @@
 ## SpaceStock REST API
 
 Im using JSON-Server to create this API for serve data that the spacestock-web (https://github.com/galihcitta/spacestock-web) used.
-Default url : http://localhost:3000
+Default url: http://localhost:3000
 
 ## Installation
 1. Clone this reposity

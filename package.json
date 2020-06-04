@@ -4,7 +4,7 @@
   "description": "spacestock mock server",
   "main": "index.js",
   "scripts": {
-    "json:server": "json-server --watch db.json"
+    "json:server": "json-server --watch db.json --port 3000"
   },
   "author": "",
   "license": "ISC",
