@@ -1,6 +1,6 @@
 ## SpaceStock REST API
 
-Im using JSON-Server to create the this API for serve data that the spacestock-web(https://github.com/galihcitta/spacestock-web) used.
+Im using JSON-Server to create this API for serve data that the spacestock-web (https://github.com/galihcitta/spacestock-web) used.
 Default url : http://localhost:3000
 
 ## Installation
